@@ -1,0 +1,6 @@
+Read Me:
+Due to the large size and confidentiality of the data files, 5 out of 133 wind turbines were provided with data information, but similar experimental results in the paper can still be achieved. If you still need all the data, please contact me through the email provided in the article.
+
+
+The description of each dimension:
+Data, Time, Temperature, Status, Power, Wind speed, Motor speed, Turbine ID, Wind direction, Accumulated daily power generation, Pitch angle
